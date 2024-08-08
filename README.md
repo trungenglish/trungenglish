@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+ My name is Trung. I'm currently a sophomore at Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT), majoring in Software Engineering. I have a passion for learning new things and continuously expanding my knowledge.
+ 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **trungenglish/trungenglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
