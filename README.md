@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- My name's Trung. I'm currently a sophomore at Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT), majoring in Software Engineering. I have a passion for learning new things and continuously expanding my knowledge.
+ My name's Trung. I'm currently a junior at Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT), majoring in Software Engineering. I have a passion for learning new things and continuously expanding my knowledge.
  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
